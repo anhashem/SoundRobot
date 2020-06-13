@@ -1,0 +1,1 @@
+"./Clock.obj" "./SysTick.obj" "./UCDAVIS_EEC10_Lab8_DL_Final_Project.obj" "./startup_msp432p401r_ccs.obj" "./system_msp432p401r.obj" "../UCDAVIS_EEC10_Lab8_DL_Final_Project_ccs.cmd" "/Users/abdallah/Downloads/UCDAVIS_EEC10_Lab8_DL_Final_Project/driverlib/MSP432P4xx/ccs/msp432p4xx_driverlib.lib" -llibc.a 
